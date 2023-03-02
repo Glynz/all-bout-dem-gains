@@ -1,0 +1,11 @@
+body {
+    min-height: 250px;
+    min-width: 250px;
+    text-align: center;
+    background: black;
+    color: whitesmoke
+}
+
+.info {
+    font-size: 24px;
+}
