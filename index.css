@@ -3,9 +3,23 @@ body {
     min-width: 250px;
     text-align: center;
     background: black;
-    color: whitesmoke
+    color: whitesmoke;
+    font-family:'Courier New', Courier, monospace;
 }
 
-.info {
+.coin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 24px;
+}
+
+img {
+    height: 30px;
+    padding-right: 10px;
+}
+
+#trackerbox {
+    display: flex;
+    flex-direction: column;
 }
